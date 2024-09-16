@@ -1,4 +1,4 @@
-# Vehicle-tracking-in-traffic-using-YOLO
+# Vehicle-counting-in-traffic-using-YOLO
 
 Vehicle Tracking with YOLO and SORT Tracker + Polygon Drawing for Regions
 
